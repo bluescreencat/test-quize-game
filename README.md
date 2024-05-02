@@ -1,2 +1,4 @@
-# test-quize-game
-For test
+# How to run
+
+1. `npm install`
+2. `npm run start`

@@ -1,0 +1,12 @@
+.QuizeBlock-container {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 4px;
+    border-radius: 4px;
+    min-width: 120px;
+    display: inline-block;
+}
+
+.QuizeBlock-choice {
+    margin-top: 6px;
+}
